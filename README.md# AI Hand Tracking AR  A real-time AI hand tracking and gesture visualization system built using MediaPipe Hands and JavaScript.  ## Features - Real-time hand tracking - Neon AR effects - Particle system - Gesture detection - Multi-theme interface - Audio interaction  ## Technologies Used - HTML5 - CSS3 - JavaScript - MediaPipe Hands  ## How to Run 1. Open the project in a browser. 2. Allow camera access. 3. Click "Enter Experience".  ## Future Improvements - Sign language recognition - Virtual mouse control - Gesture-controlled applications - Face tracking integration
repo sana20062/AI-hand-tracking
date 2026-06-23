@@ -1,0 +1,28 @@
+# AI Hand Tracking AR
+
+A real-time AI hand tracking and gesture visualization system built using MediaPipe Hands and JavaScript.
+
+## Features
+- Real-time hand tracking
+- Neon AR effects
+- Particle system
+- Gesture detection
+- Multi-theme interface
+- Audio interaction
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- MediaPipe Hands
+
+## How to Run
+1. Open the project in a browser.
+2. Allow camera access.
+3. Click "Enter Experience".
+
+## Future Improvements
+- Sign language recognition
+- Virtual mouse control
+- Gesture-controlled applications
+- Face tracking integration
